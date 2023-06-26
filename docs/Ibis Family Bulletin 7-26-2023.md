@@ -22,8 +22,8 @@ The sleepover at Gabby's is arranged, and you can go over a 2pm. However you nee
 # Crimes Against the Household
 Please note and clean up/put away the following crimes that were committed in the common area. 
 
-![[./images/IMG_6157.jpeg|IMG_6157]]
-![[./images/IMG_6159.jpeg|IMG_6159]]
-![[./images/IMG_6155.jpeg|IMG_6155]]
-![[./images/IMG_6158.jpeg|IMG_6158]]
-![[./images/IMG_6156.jpeg|IMG_6156]]
+![[IMG_6157.jpeg]]
+![[IMG_6159.jpeg]]
+![[IMG_6155.jpeg]]
+![[IMG_6158.jpeg]]
+![[IMG_6156.jpeg]]
